@@ -1,0 +1,14 @@
+*{
+    font-family: cursive;
+}
+
+body{
+    background-image: url("layered-steps-haikei (1).png");
+    background-repeat: no-repeat ;
+    background-size: cover;
+}
+
+h1{
+    color: #ffff;
+    text-align: center;
+}
